@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Rust Ai Cli logo" width="180">
+</p>
+
 # RustAICLI
 
 A high-performance, extensible command-line tool for AI prompt processing with pluggable LLM backends and a comprehensive system tools integration. Built in Rust for speed, safety, and reliability.
